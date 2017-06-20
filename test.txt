@@ -1,0 +1,1 @@
+test command of "git fetch origin"
