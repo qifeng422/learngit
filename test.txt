@@ -1,2 +1,3 @@
 test command of "git fetch origin"
 at my local machine test command of "git push branch"
+test command of "git pull"
